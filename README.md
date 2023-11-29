@@ -17,3 +17,6 @@ This project is designed to simulate the automation of smart home lights within 
 - **Bonus Feature: Dimming the Background** 🌌 - Enhance the user experience by dimming the background when all lights are turned off.
 
 
+## Live Demo 🚀
+
+Explore the live demo: [Next.js Smart Home Lights](https://nextjs-smart-home-lights.vercel.app/lights)
