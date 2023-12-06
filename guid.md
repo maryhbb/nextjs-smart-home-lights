@@ -52,7 +52,6 @@ In this challenge you will automate the lights in your house… well, at least i
 
 - You'll have to touch the files inside `components` and `pages`. All the styles are already done, so you can focus on the functional parts.
 
-
 ## Development
 
 ### Local Development
