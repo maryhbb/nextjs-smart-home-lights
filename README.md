@@ -1,6 +1,6 @@
 # Next.js Smart Home Lights 🏡💡
 
-Welcome to the Next.js Smart Home Lights project! This interactive challenge allows you to delve into the world of smart home lighting automation using Next.js. 
+Welcome to the Next.js Smart Home Lights project! This interactive challenge allows you to delve into the world of smart home lighting automation using Next.js.
 
 ## Project Overview 🚀
 
@@ -9,14 +9,12 @@ This project is designed to simulate the automation of smart home lights within 
 ## Project Highlights 🛠️
 
 - **Lifting State Up:** Share the state between components to ensure seamless communication.
-  
 - **Counting the Lights:** Display the count of turned-on lights on the home page for a quick overview.
-  
 - **Quick Actions:** Implement functions to toggle all lights on and off, providing a convenient way to manage lighting.
-  
 - **Bonus Feature: Dimming the Background** 🌌 - Enhance the user experience by dimming the background when all lights are turned off.
-
 
 ## Live Demo 🚀
 
 Explore the live demo: [Next.js Smart Home Lights](https://nextjs-smart-home-lights.vercel.app/lights)
+
+just test
